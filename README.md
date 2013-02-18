@@ -1,0 +1,1 @@
+This project is to create a fully automated intelligent gaming client.This game is a tank game which design in a client server mode where client get responses of the locations of the map and the location and direction of other gaming clients where we need to automate our client using a AI to score over other clients.
